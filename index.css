@@ -1,0 +1,18 @@
+body {
+    font-family: 'ProximaNova';
+    padding-left: 140px;
+    padding-right: 140px;
+}
+
+.Header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Logo {
+    color: #000;
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: -0.8px;
+}

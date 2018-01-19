@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"./index.js","dynamic":true}],"generated":{"html":"<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>Unera - Design house</title>\n</head>\n<body>\n<main id=\"root\"></main>\n<script src=\"/dist/unera_v2_parcel.js\"></script>\n</body>\n</html>"},"hash":"3ac7b05a9b46994f97404bffebd6d93d"}
